@@ -1,0 +1,26 @@
+button {
+  padding: 15px;
+}
+
+button.paused {
+  background: #ad50ff;
+}
+
+.square-box {
+  width: 60%;
+  height: 0;
+  padding-top: 60%;
+  position: absolute;
+  right: 20px;
+  top: 20px;
+  display: none;
+}
+
+.landmark-grid-container {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  top:0;
+  left:0;
+  background-color: #99999999;
+}
